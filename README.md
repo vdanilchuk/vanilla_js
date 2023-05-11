@@ -1,1 +1,1 @@
-Native JS (Objects finished)
+Native JS (Functions finished)

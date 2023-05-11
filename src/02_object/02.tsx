@@ -14,7 +14,7 @@ type LocalCityType = {
     countryTitle: string
 }
 
-type StudentType = {
+export type StudentType = {
     id: number
     name: string
     age: number
